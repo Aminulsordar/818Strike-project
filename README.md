@@ -19,7 +19,7 @@ Steps
 Clone the Repository:
 
 Clone the repository containing the smart contract scanner code:
-git clone https://github.com/your-username/vulnerability-scanner.git
+git clone https://github.com/panasheneo/BugStrike-project.git
 cd vulnerability-scanner
 
 Install Dependencies:
