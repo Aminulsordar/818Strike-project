@@ -1,6 +1,6 @@
 # BugStrike-project
 
-Certainly! Below are the installation and deployment instructions for the simple smart contract vulnerability scanner:
+ installation and deployment instructions for the simple smart contract vulnerability scanner:
 
 Installation and Deployment Instructions
 Prerequisites
